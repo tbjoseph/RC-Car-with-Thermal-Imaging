@@ -1,0 +1,6 @@
+RPi.GPIO
+adafruit-circuitpython-mlx90640
+Flask
+flask-socketio
+gevent
+numpy
